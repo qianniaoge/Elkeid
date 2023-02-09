@@ -7,11 +7,10 @@ require (
 	github.com/Shopify/sarama v1.24.1
 	github.com/eapache/go-resiliency v1.2.0 // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
-	github.com/gin-gonic/gin v1.7.0
+	github.com/gin-gonic/gin v1.7.7
 	github.com/gogo/protobuf v1.2.1
 	github.com/golang/protobuf v1.4.3
 	github.com/golang/snappy v0.0.2
-	github.com/json-iterator/go v1.1.9
 	github.com/klauspost/compress v1.11.0 // indirect
 	github.com/levigross/grequests v0.0.0-20190908174114-253788527a1a
 	github.com/patrickmn/go-cache v2.1.0+incompatible
