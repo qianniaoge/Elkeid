@@ -3,7 +3,7 @@ module github.com/bytedance/Elkeid/server/manager
 go 1.15
 
 require (
-	github.com/gin-gonic/gin v1.7.0
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-redis/redis/v8 v8.8.0
 	github.com/golang-jwt/jwt v3.2.1+incompatible
 	github.com/json-iterator/go v1.1.9
